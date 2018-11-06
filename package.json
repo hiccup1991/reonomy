@@ -1,0 +1,19 @@
+{
+  "name": "thal",
+  "version": "1.0.0",
+  "description": "Web Scraping with Puppeteer and Chrome Headless",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiccup1991/reonomy.git"
+  },
+  "author": "hiccup1991",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.3.9",
+    "puppeteer": "^1.10.0"
+  }
+}
